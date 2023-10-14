@@ -1,6 +1,6 @@
 #Saludos en Go
 
-Este paquete proporciona una forma simple de pptener saludos personalizados en Go
+Este paquete proporciona una forma simple de optener saludos personalizados en Go
 
 
 ##Isntalacion
